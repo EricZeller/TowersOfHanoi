@@ -18,7 +18,7 @@ public class tuermehanoi {
     verschiebeArt(gerade, n);
   }
   
-  //Unterprogramm Abfrage zum prüfen, ob n gerade oder ungerade ist
+  //Unterprogramm Abfrage zum prï¿½fen, ob n gerade oder ungerade ist
   public static int abfrage (int pn){
     int pgerade = 0;
     if (pn%2 == 1) {
